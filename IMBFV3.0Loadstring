@@ -1,0 +1,5 @@
+-----IMBFV3.0-----
+
+-----If You Are In A Supported Game And After The Script Is Done Loading. It Will Say "Game Not Found!" Even If The Game Is Found. Do Not Worry It Is Just A Small Issue That I Cant Fix.----
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/smilez6822official/IMBFV3.0Protected/main/IMBF%20V3.0Protected"))()
